@@ -1,2 +1,2 @@
-# TPNEWS
+TPNEWS
 Author Navin Suvarna
